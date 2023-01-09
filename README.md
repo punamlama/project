@@ -1,10 +1,8 @@
 # project
  
 
-![Screenshot_1673270312](https://user-images.githubusercontent.com/111210126/211317947-7f5ab75d-66d1-48da-ab1a-7c42067ecc2a.png)
+![Screenshot_1673270680](https://user-images.githubusercontent.com/111210126/211318673-86763e75-3293-410c-8878-74e9921d4a60.png)
 
+![Screenshot_1673270683](https://user-images.githubusercontent.com/111210126/211318684-be582469-3e05-4370-b5ff-e8bac004df33.png)
 
-![Screenshot_1673270306](https://user-images.githubusercontent.com/111210126/211317950-9b4e41c7-0f90-4176-ba57-f62bc809fa23.png)
-
-
-![Screenshot_1673270309](https://user-images.githubusercontent.com/111210126/211317953-7f2e5c09-a188-455a-af9f-ab69ff4d44e7.png)
+![Screenshot_1673270686](https://user-images.githubusercontent.com/111210126/211318686-a3aaf9a3-562d-4f60-8848-04bee25a0c08.png)
